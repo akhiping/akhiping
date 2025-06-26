@@ -3,8 +3,8 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&center=true&vCenter=true&width=450&lines=Designing+agentic+LLM+systems;Building+modular+humanoids+with+ROS2;Engineering+safe%2C+multimodal+AI+interfaces"
-    alt="Typing SVG"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&center=true&vCenter=true&width=700&lines=Designing+agentic+LLM+systems;Building+modular+humanoids+with+ROS2;Engineering+safe%2C+multimodal+AI+interfaces"
+    alt="Typing animation"
   />
 </p>
 
