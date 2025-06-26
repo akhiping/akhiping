@@ -48,7 +48,7 @@ Real-time ROS2-based humanoid assistant integrating face tracking, DOA audio, en
 Agentic Chrome extension and backend system for sticky-note-like, branching ChatGPT UX.  
 - Built using GPT, Pinecone, rerankers, LangChain  
 - Plug-and-play vector pipeline + user-context injection  
-🔗 [View Project](https://github.com/akhiping/chatgpt_inline)
+🔗 [View Project](https://github.com/akhiping/Entropy_Standalone)
 
 ---
 
