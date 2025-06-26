@@ -2,8 +2,9 @@
 <h3 align="center">AI Systems Builder • Robotics Engineer • Agentic Interfaces Researcher</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&center=true&vCenter=true&multiline=true&width=600&lines=Designing+agentic+LLM+systems+that+observe%2C+reason%2C+act.;Building+modular+humanoids+with+ROS2+and+multimodal+sensing.;Engineering+AI+for+safe%2C+context-aware+interaction.">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&center=true&vCenter=true&multiline=true&width=500&lines=Designing+agentic+LLM+systems;Building+modular+humanoids+with+ROS2;Engineering+safe+multimodal+AI+interfaces" />
 </p>
+
 
 <p align="center">
   <a href="mailto:akhiping2@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
