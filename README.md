@@ -2,8 +2,12 @@
 <h3 align="center">AI Systems Builder • Robotics Engineer • Agentic Interfaces Researcher</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&center=true&vCenter=true&multiline=true&width=500&lines=Designing+agentic+LLM+systems;Building+modular+humanoids+with+ROS2;Engineering+safe+multimodal+AI+interfaces" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&center=true&vCenter=true&width=450&lines=Designing+agentic+LLM+systems;Building+modular+humanoids+with+ROS2;Engineering+safe%2C+multimodal+AI+interfaces"
+    alt="Typing SVG"
+  />
 </p>
+
 
 
 <p align="center">
