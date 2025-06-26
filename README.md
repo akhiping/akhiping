@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Akhila Pingali 👋</h1>
-<h3 align="center">AI Systems Builder • Robotics Engineer • Agentic Interfaces Researcher</h3>
+<h3 align="center">AI and Robotics Engineer</h3>
 
 <p align="center">
   <img 
