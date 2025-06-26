@@ -11,10 +11,20 @@
 
 
 <p align="center">
-  <a href="mailto:akhiping2@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/akhiping"><img src="https://img.shields.io/github/followers/akhiping?label=GitHub&style=for-the-badge" /></a>
-  <a href="https://linkedin.com/in/akhila-pingali-93aa08206"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:akhiping2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/akhiping">
+    <img src="https://img.shields.io/github/followers/akhiping?label=GitHub&style=for-the-badge" />
+  </a>
+  <a href="https://linkedin.com/in/akhila-pingali-93aa08206">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="http://akhiping.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
