@@ -43,6 +43,21 @@ Currently exploring:
 
 ## 🚀 Projects
 
+### 🔧 **Baseline Surgeon – Web Compatibility Toolkit**  
+Open-source TypeScript toolkit for auto-refactoring web code to Baseline-safe patterns using official web-features data.  
+- **Novel Baseline Adoption Score** (0-100 metric with A-F grading) for quantifying codebase health  
+- **11 No-Regret Transforms** (7 JS/DOM + 4 CSS) with polyfills and progressive enhancement  
+- **Enhanced Markdown & SARIF Reporters** for CI/CD integration (GitHub Code Scanning, Azure DevOps)  
+- **Interactive Web Playground** with Monaco Editor and live transform demos  
+- **Fix Impact Analysis** showing projected score improvements before applying changes  
+
+🎮 [Try the Playground](https://baseline-surgeon-6lr2egvej-tars-projects-b718b6e1.vercel.app) | 📦 [GitHub Repo](https://github.com/akhiping/baseline_surgeon)
+
+**Tech Stack**: TypeScript • Vite • React • Babel AST • PostCSS • TurboRepo monorepo  
+**Recognition**: Built for the Baseline Tooling Hackathon
+
+---
+
 ### 🤖 **Proactive Humanoid System**  
 Real-time ROS2-based humanoid assistant integrating face tracking, DOA audio, engagement detection, emotion recognition, and proactive behavior logic.  
 🧠 Engineered with InsightFace, ReSpeaker, ROS4HRI, and Whisper-based STT.  
