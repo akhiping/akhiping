@@ -41,7 +41,7 @@ Currently exploring:
 
 ---
 
-## 🚀 Projects
+## 🚀 Projects (PLEASE VISIT MY PORTFOLIO TO VIEW MY LATEST WORK)
 
 ### 🔧 **Baseline Surgeon – Web Compatibility Toolkit**  
 Open-source TypeScript toolkit for auto-refactoring web code to Baseline-safe patterns using official web-features data.  
